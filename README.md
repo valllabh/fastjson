@@ -1,6 +1,10 @@
 
 # fastjson
 
+
+![Opera](https://img.shields.io/badge/TruRisk%E2%84%A2-760-ED2E26?logo=Qualys&logoColor=white)
+
+
 [![Java CI](https://github.com/alibaba/fastjson/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/alibaba/fastjson/actions/workflows/ci.yaml)
 [![Codecov](https://codecov.io/gh/alibaba/fastjson/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/fastjson/branch/master)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alibaba/fastjson/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alibaba/fastjson/)
